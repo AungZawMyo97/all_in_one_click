@@ -27,10 +27,7 @@ A React application that allows you to post messages to both Telegram and Viber 
    REACT_APP_SECRET_KEY=your_secret_key
    ```
 
-## Default Credentials
 
-- **Username:** admin@oneclick.com
-- **Password:** mtz233981
 
 ## Setup Instructions
 
