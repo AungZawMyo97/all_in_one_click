@@ -20,8 +20,6 @@ A React application that allows you to post messages to both Telegram and Viber 
 
 2. **Edit .env file** with your actual credentials:
    ```env
-   REACT_APP_USERNAME=admin@oneclick.com
-   REACT_APP_PASSWORD=mtz233981
    REACT_APP_TELEGRAM_BOT_TOKEN=your_telegram_bot_token
    REACT_APP_TELEGRAM_CHANNEL_ID=your_telegram_channel_id
    REACT_APP_VIBER_BOT_TOKEN=your_viber_bot_token
